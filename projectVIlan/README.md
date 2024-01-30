@@ -10,3 +10,5 @@ this is a react project created  with vite
 
  ```
  This installs the necessary dependencies for the project
+
+ 2.package.json file
